@@ -1,2 +1,2 @@
 # Tetris
-# Standard modelling on basis of pygame modules.
+Standard modelling on basis of pygame modules.
