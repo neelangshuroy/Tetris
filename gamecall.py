@@ -1,3 +1,9 @@
+'''
+Made by NEELANGSHU ROY
+Student of B.Tech in Computer Science and Engineering at NIT Allahabad
+Batch of 2021-25
+'''
+
 import sys
 import pygame as pg
 from pygame.locals import *
