@@ -1,4 +1,5 @@
 # Tetris
+Classic game of Tetris !
 Tetris - a game of optimally arranging falling blocks, an age-old yet challenging game !  
 This game has been written in Python using Pygame, a set of modules designed specifically  
 for making lightweight games and other applications.  
